@@ -5,9 +5,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedropbazzo@gmail.com)](mailto:pedropbazzo@gmail.com)
 
 ## Hi 👋
+
 I'm Pedro Paulo Bazzo, I'm a software engineer  👨‍💻
-Passionate about developement mobile and web 
-Also technologies and open source. I am also a graphic designer
 
 - 🔭 I’m currently working on Android, IOS Apps
 - 🌱  I’m currently working JavaScript and Frameworks
