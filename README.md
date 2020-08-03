@@ -11,8 +11,6 @@ I'm Pedro Paulo Bazzo, I'm a software engineer  👨‍💻
 - 🔭 I’m currently working on Android, IOS Apps
 - 🌱  I’m currently working JavaScript and Frameworks
 - 💬 Ask me about: tech, memes, anime
--  ⚡ Languages: Java, Go, C++, Kotlin, Python3 and Javascript
-
 
 ---
 ⭐️ From [Pedro Paulo Bazzo](https://github.com/pedropbazzo)
