@@ -6,7 +6,7 @@
 
 ## Hi 👋!<img src="https://github.com/pedropbazzo/octahub/blob/master/octocat.png" alt="drawing" width="200"/>
 
-I'm Pedro Paulo Bazzo, I'm a software engineer  👨‍💻
+I'm Pedro Paulo Bazzo, I'm a Software Engineer  👨‍💻
 
 - 🔭 I’m currently working on Android, IOS Apps
 - 🌱  I’m currently working JavaScript and Frameworks
