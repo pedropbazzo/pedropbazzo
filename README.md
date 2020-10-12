@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedropbazzo/)](https://www.linkedin.com/in/pedropbazzo/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedropbazzo@gmail.com)](mailto:pedropbazzo@gmail.com)
 
-## Hi 👋   <img src="https://github.com/pedropbazzo/octahub/blob/master/octocat.png" alt="drawing" width="200"/>
+## Hi 👋   
 
 I'm Pedro Paulo Bazzo, I'm a Software Engineer  👨‍💻
 
