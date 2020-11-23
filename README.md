@@ -6,7 +6,7 @@
 
 ## Hi 👋   
 
-[page github] (https://github.com/pedropbazzo/nlw-3/blob/master/web/src/images/pictures.PNG)
+! [page github](https://github.com/pedropbazzo/nlw-3/blob/master/web/src/images/pictures.PNG)
 
 - 🔭 I’m currently working on Android, IOS Apps
 - 🌱  I’m currently working JavaScript and Frameworks
