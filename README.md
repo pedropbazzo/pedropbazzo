@@ -4,7 +4,7 @@
 
 ## Hi 👋   
 
-![page github](https://raw.githubusercontent.com/pedropbazzo/nlw-3/master/web/src/images/pictures.PNG)
+![page github](https://raw.githubusercontent.com/pedropbazzo/nlw-3/master/web/src/images/%23ACREDITAR.png)
 
 ##  Tecnology Stack
 
