@@ -6,7 +6,7 @@
 
 ##  Tecnology Stack
 
-<img align="left" alt="JavaScript" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="60px" src="https://raw.githubusercontent.com/pedropbazzo/Next-Level-Week-RocketSeat/master/web/src/assets/reactjs.png" />
+<img align="left" alt="" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="" width="100px" src="https://raw.githubusercontent.com/pedropbazzo/Next-Level-Week-RocketSeat/master/web/src/assets/reactjs.png" />
 <br />
 <br />
