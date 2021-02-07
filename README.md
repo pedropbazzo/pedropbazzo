@@ -36,6 +36,6 @@
 ## 😇 My Github Stats:
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=walefe&show_icons=true&theme=algolia&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=pedropbazzo&show_icons=true&theme=algolia&line_height=27">
 </p>
 
