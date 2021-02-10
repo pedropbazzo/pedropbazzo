@@ -35,6 +35,12 @@
 
 ---
 
+## 📚 Studying
+
+<p>
+<img src="https://img.shields.io/badge/elixir%20-314690.svg?&style=for-the-badge&logo=elixir&logoColor=white"/>
+</p>
+
 ## 😇 My Github Stats:
 
 <p align = "center">
