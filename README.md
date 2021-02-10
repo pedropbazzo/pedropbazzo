@@ -40,6 +40,7 @@
 <p>
 <img src="https://img.shields.io/badge/elixir%20-314690.svg?&style=for-the-badge&logo=elixir&logoColor=white"/>
 <img src="https://img.shields.io/badge/ruby%20-FF0000.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
+<img src="https://miro.medium.com/max/3152/1*Ifpd_HtDiK9u6h68SZgNuA.png?&style=for-the-badge&logo=golang&logoColor=white"/>
 </p>
 
 ## 😇 My Github Stats:
