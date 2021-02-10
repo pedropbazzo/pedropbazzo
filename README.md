@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/php%20-6A5ACD.svg?&style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/java%20-FF0000.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python%20-314690.svg?&style=for-the-badge&logo=python&logoColor=white" width="30"/>
+  <img src="" />
 </p>
 
 ---
@@ -40,7 +40,7 @@
 <p>
 <img src="https://img.shields.io/badge/elixir%20-314690.svg?&style=for-the-badge&logo=elixir&logoColor=white"/>
 <img src="https://img.shields.io/badge/ruby%20-FF0000.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
-<img src="https://miro.medium.com/max/3152/1*Ifpd_HtDiK9u6h68SZgNuA.png?&style=for-the-badge&logo=golang&logoColor=white"/>
+<img src="https://img.shields.io/badge/go%20-87CEFA.svg?&style=for-the-badge&logo=go&logoColor=white"/>
 </p>
 
 ## 😇 My Github Stats:
