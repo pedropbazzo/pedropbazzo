@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/php%20-6A5ACD.svg?&style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/java%20-FF0000.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/angular%20-FF0000.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/python%20-314690.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
