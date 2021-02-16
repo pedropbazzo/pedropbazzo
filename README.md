@@ -49,4 +49,9 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=pedropbazzo&show_icons=true&theme=dark&line_height=27">
 </p>
 
+<p align = "center">
+  <img src =https://github-readme-stats.vercel.app/api/top-langs/?username=pedropbazzo&layout=compact&theme=dark">
+</p>
+
+
 *"Nothing in this world surpasses good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not surpass. Unrecognized geniuses are practically a cliché. Education does not surpass. Because the world is full of educated fools. Persistence and determination , just, are powerful. "* **(Clarence Floyd Nelson)**
