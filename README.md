@@ -50,7 +50,7 @@
 </p>
 
 <p align = "center">
-  <img src =https://github-readme-stats.vercel.app/api/top-langs/?username=pedropbazzo&layout=compact&theme=dark">
+  <img src =https://github-readme-stats.vercel.app/api/top-langs/?username=pedropbazzo&show_icons=true&theme=dark&line_height=27">
 </p>
 
 
