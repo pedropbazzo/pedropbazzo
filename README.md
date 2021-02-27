@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/pedropbazzo/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/pedropbazzo/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:developerpedropbazzo@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
-<a href="https://www.npmjs.com/~pedropbazzo"><img src="https://img.shields.io/badge/pedropbazzo-black.svg?style=for-the-badge&logo=npm&logoColor=black"></a>
+<a href="https://www.npmjs.com/~pedropbazzo"><img src="https://img.shields.io/badge/npm-black.svg?style=for-the-badge&logo=npm&logoColor=black"></a>
 <ul>
   <li>💻 I'm a Javascript Developer from <b>São Paulo <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b></li>
   <li>💾 I'm working with React Native, ReactJS, Angular, Java, NodeJS, Vanilla JS, PHP and Git</li>
