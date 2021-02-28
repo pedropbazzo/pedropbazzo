@@ -65,7 +65,7 @@
 </center>
 
   ---
-  <img width="880px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedropbazzo&hide_border=true"/>
+  <img width="880px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedropbazzo&&theme=dracula"/>
   
   ---
   
