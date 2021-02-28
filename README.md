@@ -66,6 +66,10 @@
 
   ---
   <img width="880px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedropbazzo&hide_border=true"/>
+  
+  ---
+  
+  <img width="880px" align="center"https://activity-graph.herokuapp.com/graph?username=pedropbazzo&theme=dracula"/>
 
 
 *"Nothing in this world surpasses good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not surpass. Unrecognized geniuses are practically a cliché. Education does not surpass. Because the world is full of educated fools. Persistence and determination , just, are powerful. "* **(Clarence Floyd Nelson)**
