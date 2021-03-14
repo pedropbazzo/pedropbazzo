@@ -38,6 +38,7 @@
   <img src="https://img.shields.io/badge/php%20-6A5ACD.svg?&style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/java%20-FF0000.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/python%20-314690.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/electron%20-808080.svg?&style=for-the-badge&logo=electron&logoColor=white"/>
 </p>
 
 ---
