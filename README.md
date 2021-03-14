@@ -38,7 +38,6 @@
   <img src="https://img.shields.io/badge/php%20-6A5ACD.svg?&style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/java%20-FF0000.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/python%20-314690.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/electron%20-808080.svg?&style=for-the-badge&logo=electron&logoColor=white"/>
 </p>
 
 ---
@@ -52,6 +51,7 @@
 <img src="https://img.shields.io/badge/kotlin%20-bf40bf.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/swift%20-e68a19.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/android-greem.svg?&style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/electron%20-808080.svg?&style=for-the-badge&logo=electron&logoColor=white"/>
 </p>
 
 ## 😇 My Github Stats:
