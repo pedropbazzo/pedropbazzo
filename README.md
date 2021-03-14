@@ -8,7 +8,7 @@
   [![GitHub Gist Badge](https://img.shields.io/badge/GitHub_Gist-black)](https://gist.github.com/pedropbazzo)
   </p>
 
-<h1>I'm Pedro Bazzo - aka Bjorn</h1>
+<h1>I'm Pedro Bazzo</h1>
 
 <a href="https://www.linkedin.com/in/pedropbazzo/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/pedropbazzo/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
