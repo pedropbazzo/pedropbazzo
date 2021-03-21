@@ -16,7 +16,7 @@
 <a href="https://www.npmjs.com/~pedropbazzo"><img src="https://img.shields.io/badge/npm-black.svg?style=for-the-badge&logo=npm&logoColor=black"></a>
 <ul>
   <li>💻 I'm Developer from <b>São Paulo <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b></li>
-  <li>💾 I'm working with Angular, Angular Mobile, Java, JSP, NodeJS, AWS and Git</li>
+  <li>💾 I'm working with Typescript, Angular, Angular Mobile, Java, JSP, NodeJS, AWS and Git</li>
   <li>😍 Passionate about education and problem solution through programming</li>
   <li>🤝 Willing to contribute in opensource development projects</li>
 </ul>
