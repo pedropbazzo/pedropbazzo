@@ -19,7 +19,7 @@
   <li>💾 I'm working with Angular, Angular Mobile, Java, JSP, NodeJS, AWS and Git</li>
   <li>😍 Passionate about education and problem solution through programming</li>
   <li>😊 Willing to contribute in opensource development projects</li>
-  <li>🤝 Open for collaborations in Javascript Stack</li>
+  <li>🤝 Open for collaborations in open source</li>
 </ul>
 
 ---
