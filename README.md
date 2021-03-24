@@ -1,11 +1,12 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there</h1>
 
 <p align="center">
-  
+  [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/pedropbazzo)](https://medium.com/pedropbazzo)
   <a href="http://pedropbazzo.com.br"><img src="https://img.shields.io/badge/pedropbazzo-brightgreen"></a>
   [![Blog](https://img.shields.io/badge/Blog-black)](https://pedropbazzo.blog)
   <a href="https://pedropbazzo.github.io/online-cv/"><img src="https://img.shields.io/badge/My%20online%20curriculum-0077B5.svg"></a>
   [![GitHub Gist Badge](https://img.shields.io/badge/GitHub_Gist-black)](https://gist.github.com/pedropbazzo)
+  
   </p>
 
 <h1>I'm Pedro Bazzo</h1>
@@ -14,7 +15,7 @@
 <a href="https://www.instagram.com/pedropbazzo/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:developerpedropbazzo@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 <a href="https://www.npmjs.com/~pedropbazzo"><img src="https://img.shields.io/badge/npm-black.svg?style=for-the-badge&logo=npm&logoColor=black"></a>
-<a href="https://medium.com/pedropbazzo"><img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=Medium&logoColor=black"></a>
+<a href="https://medium.com/pedropbazzo"><img src="https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white"></a>
 <ul>
   <li>💻  I'm Developer from <b>São Paulo <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b></li>
   <li>💾  I'm working with Typescript, Angular, Android, Java, JSP, NodeJS, AWS and Git</li>
