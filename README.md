@@ -14,7 +14,7 @@
 <a href="https://www.instagram.com/pedropbazzo/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:developerpedropbazzo@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 <a href="https://www.npmjs.com/~pedropbazzo"><img src="https://img.shields.io/badge/npm-black.svg?style=for-the-badge&logo=npm&logoColor=black"></a>
-<a href="https://medium.com/pedropbazzo"><img src="https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white"></a>
+<a href="https://medium.com/pedropbazzo"><img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=Medium&logoColor=black"></a>
 <ul>
   <li>💻  I'm Developer from <b>São Paulo <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b></li>
   <li>💾  I'm working with Typescript, Angular, Android, Java, JSP, NodeJS, AWS and Git</li>
