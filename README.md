@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there</h1>
 
 <p align="center">
-  [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/pedropbazzo)](https://medium.com/pedropbazzo)
+  [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flatsquare&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/pedropbazzo)](https://medium.com/pedropbazzo)
   <a href="http://pedropbazzo.com.br"><img src="https://img.shields.io/badge/pedropbazzo-brightgreen"></a>
   [![Blog](https://img.shields.io/badge/Blog-black)](https://pedropbazzo.blog)
   <a href="https://pedropbazzo.github.io/online-cv/"><img src="https://img.shields.io/badge/My%20online%20curriculum-0077B5.svg"></a>
