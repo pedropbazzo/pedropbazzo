@@ -7,6 +7,7 @@
   [![Blog](https://img.shields.io/badge/Blog-black)](https://pedropbazzo.blog)
   <a href="https://pedropbazzo.github.io/online-cv/"><img src="https://img.shields.io/badge/My%20online%20curriculum-0077B5.svg"></a>
   [![GitHub Gist Badge](https://img.shields.io/badge/GitHub_Gist-black)](https://gist.github.com/pedropbazzo)
+  <a href=""><img src="https://github.com/Shpota/github-activity-generator/workflows/build/badge.svg"></a>
   
   </p>
 
