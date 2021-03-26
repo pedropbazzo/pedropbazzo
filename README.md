@@ -74,7 +74,6 @@
 
   ---
   <img width="880px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedropbazzo&&theme=dracula"/>
-  ---
  
  <img width="880px" align="center" src="https://activity-graph.herokuapp.com/graph?username=pedropbazzo&theme=dracula"/>
 
