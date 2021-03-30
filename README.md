@@ -22,10 +22,10 @@
 <a href="https://gist.github.com/pedropbazzo"><img src="https://img.shields.io/badge/github_gist-000000.svg?style=for-the-badge&logo=github&logoColor=white%22"></a>
 
 <ul>
-  <li> 💻   I'm Developer from <b>São Paulo <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b></li>
-  <li> 💾   I'm working with Typescript, Angular, Android, Java, JSP, NodeJS, AWS and Git</li>
-  <li> 😍   Passionate about education and problem solution through programming</li>
-  <li> 🤝   Willing to contribute in opensource development projects</li>
+  <li> 💻 &nbsp;I'm Developer from <b>São Paulo <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b></li>
+  <li> 💾 &nbsp;I'm working with Typescript, Angular, Android, Java, JSP, NodeJS, AWS and Git</li>
+  <li> 😍&nbsp;Passionate about education and problem solution through programming</li>
+  <li> 🤝&nbsp;Willing to contribute in opensource development projects</li>
 </ul>
 
 ---
