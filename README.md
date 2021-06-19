@@ -2,7 +2,6 @@
 
 <p align="center">
   
-  [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/bazzope.svg?style=social&label=Follow%20bazzope)](https://twitter.com/bazzope)
   [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flatsquare&labelColor=000000&logo=medium&logoColor=white&link=https://pedropbazzo.medium.com/)](https://pedropbazzo.medium.com/)
   <a href="http://pedropbazzo.com.br"><img src="https://img.shields.io/badge/pedropbazzo-brightgreen"></a>
   [![Blog](https://img.shields.io/badge/Blog-black)](https://pedropbazzo.blog)
