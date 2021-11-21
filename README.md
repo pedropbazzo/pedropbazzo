@@ -23,7 +23,7 @@
 
 <ul>
   <li>&nbsp;💻 &nbsp;&nbsp; I'm Developer from <b>São Paulo, Brasil</b></li>
-  <li>&nbsp;💾 &nbsp;&nbsp; I'm working with Typescript, Angular, Android, Java, Kotlin, JSP, NodeJS, AWS and Git</li>
+  <li>&nbsp;💾 &nbsp;&nbsp; I'm working with Typescript, Angular, Android, Java, Kotlin, JSP, NodeJS, Observability, AWS and Git</li>
   <li>&nbsp;😍&nbsp;&nbsp; Passionate about education and problem solution through programming</li>
   <li>&nbsp;🤝&nbsp;&nbsp; Willing to contribute in opensource development projects</li>
 </ul>
