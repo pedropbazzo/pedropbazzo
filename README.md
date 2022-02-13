@@ -22,7 +22,7 @@
 <a href="https://gist.github.com/pedropbazzo"><img src="https://img.shields.io/badge/github_gist-000000.svg?style=for-the-badge&logo=github&logoColor=white%22"></a>
 
 <ul>
-  <li>&nbsp;💻 &nbsp;&nbsp; I'm Software Engineering Lead from <b>São Paulo, Brasil</b></li>
+  <li>&nbsp;💻 &nbsp;&nbsp; I'm Software Engineering from <b>São Paulo, Brasil</b></li>
   <li>&nbsp;💾 &nbsp;&nbsp; I'm working with Typescript, Angular, Android, Java, Kotlin, JSP, NodeJS, Observability, AWS and Git</li>
   <li>&nbsp;😍&nbsp;&nbsp; Passionate about education and problem solution through programming</li>
   <li>&nbsp;🤝&nbsp;&nbsp; Willing to contribute in opensource development projects</li>
