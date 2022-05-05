@@ -4,7 +4,7 @@
   
   [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flatsquare&labelColor=000000&logo=medium&logoColor=white&link=https://pedropbazzo.medium.com/)](https://pedropbazzo.medium.com/)
   <a href="https://pedropbazzo.github.io/Presentation/?fbclid=IwAR2PP6ukD79h-6S6MQT6QooSFpAGCqoJDyioQ72B47hCH2De9xxLB3kuUtw"><img src="https://img.shields.io/badge/pedropbazzo-brightgreen"></a>
-  [![Blog](https://img.shields.io/badge/Blog-black)](https://pedropbazzo.blog)
+  [![Blog](https://img.shields.io/badge/Blog-black)](https://blog-pedropbazzo.vercel.app/)
   <a href="https://pedropbazzo.github.io/online-cv/"><img src="https://img.shields.io/badge/My%20online%20curriculum-0077B5.svg"></a>
   [![GitHub Gist Badge](https://img.shields.io/badge/GitHub_Gist-black)](https://gist.github.com/pedropbazzo)
   <a href=""><img src="https://github.com/Shpota/github-activity-generator/workflows/build/badge.svg"></a>
