@@ -45,6 +45,7 @@
   <img src="https://img.shields.io/badge/java%20-FF0000.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/python%20-314690.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img alt="AWS" src="https://avatars.githubusercontent.com/u/453694?s=200&v=4"/>
   </p>
   
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
